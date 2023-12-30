@@ -4,4 +4,7 @@ public class Calculatrice {
 	public static int add(int a, int b) {
 		return a+b; 
 	}
+	public int multiplier(int a, int b) {
+        return a * b;
+    }
 }
